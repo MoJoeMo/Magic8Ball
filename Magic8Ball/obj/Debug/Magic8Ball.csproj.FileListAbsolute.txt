@@ -1,0 +1,8 @@
+D:\VSProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+D:\VSProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+D:\VSProjects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+D:\VSProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+D:\VSProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
+D:\VSProjects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+D:\VSProjects\Magic8Ball\Magic8Ball\bin\Debug\Autofac.dll
+D:\VSProjects\Magic8Ball\Magic8Ball\bin\Debug\Autofac.xml
